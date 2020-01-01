@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="xadrez\Torre.cs~RFf983aec.TMP" />
+  </ItemGroup>
+
 </Project>
